@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EinsKatze
-- 🐍 I’m currently learning Python
-- 💻 And I’m currently working on a Discord Bot
+- 🐍 I’m currently learning C# and Python 
+- 💻 And I’m currently working on a Password Utility Tool.
 - ✉ You can reach me via Discord (EinsKatze#0546)
 
 <!---
