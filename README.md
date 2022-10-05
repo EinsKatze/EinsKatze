@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EinsKatze
-- 🐍 I’m currently learning C# and Python 
+- 🐍 I’m currently working with C#, Python and Rust. 
 - 💻 And I’m currently working on a Password Utility Tool.
-- ✉ You can reach me via Discord (EinsKatze#0546)
+- ✉ You can contact me via Discord (EinsKatze²#9444)
 
 <!---
 EinsKatze/EinsKatze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
