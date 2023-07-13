@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on multiple private Projects and "Security-Utilities"<br>🌱 I’m currently working with C#, Python and Rust<br>⚡ Fun fact: I'm bad at programming<br>💬 Contact me on Discord: EinsKatze²#9444
+🔭 I’m (sometimes) working on multiple private Projects \
+🌱 I’m currently using C#, Python, Go and Rust (im bad in all of these) \
+💬 Contact me on Discord (einskadse) or [Matrix](https://matrix.to/#/@einskadse:matrix.org)
 
 
 # 💻 Tech Stack:
