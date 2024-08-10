@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m (sometimes) working on multiple private Projects \
 🌱 I’m currently using C#, Python, Go and Rust (im bad in all of these) \
-💬 Contact me on Discord (einskatze1337) or [Matrix](https://matrix.to/#/@einskadse:matrix.org)
+💬 Contact me on Discord (einskatze1337) or [Matrix](https://matrix.to/#/@einskadse:matrix.org) \
 🌍 Have a look at my [Blog/Website](https://einskatze.github.io/)
 
 
